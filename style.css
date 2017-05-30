@@ -1,0 +1,30 @@
+
+body {
+  background-color: #5D485C; /* purple */
+  color: #F7F9F7; /* almost white */
+}
+
+a:link    {color:#AAA29F;  text-decoration:none}
+a:visited {color:#AAA29F; text-decoration:none}
+a:hover   {color:#F5DAA1; text-decoration:underline} /* Yellow */
+
+h1{
+  font-family: Lobster, Monospace;
+  font-size: 450%;
+}
+#who{
+  background-color: #F5DAA1; /* yellow */
+  color: #5D485C; /* purple */
+}
+
+#who p{font-size:14px}
+
+#footer{
+  background-color: #F7F9F7; /* almost white */
+  color: #5D485C; /* purple */
+}
+
+img .concert-img{
+    display: block;
+    margin: auto;
+}
